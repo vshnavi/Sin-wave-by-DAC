@@ -1,13 +1,5 @@
 # Sin-wave-by-DAC
- Sine wave generation using DAC,using controller MSP430.
-
-Title:	To generate sine wave using DAC module of LPC2148.	
-
-Problem: Write a C program to create the following periodic signal using DAC module available in LPC2148 microcontroller.
-
-
-
-
+ Sine wave generation using DAC,using controller MSP430.	
 Algorithm:-
 
 
@@ -19,18 +11,9 @@ e.	Using for loop take each element of array in DACR.
 f.	Send that data to DAC.
 g.	End.
 
-
-
-
-
-
-
 Kits Required:	-
              
                  LPC2148  ,ARM7 Based Microcontroller Kit (ALS-SDA-ARM7-06Kit),  DSO.
-
-
-
 Software:-  
    Keil, flash magic.
    
